@@ -1,0 +1,4 @@
+let qoute: string = "A person who never made a mistake never tries any thing new";
+let famous_person="Albert Einstine";
+let message=`${famous_person} onse said ${qoute}`;
+console.log(message);
